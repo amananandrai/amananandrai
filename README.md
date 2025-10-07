@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with new Gen AI tools.
 - 📫 How to reach me: amananandrai@gmail.com
 
+-----------------------------------------------------------------------
 ### Skills
 
 <p align="left">
@@ -15,6 +16,21 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 </p>
+
+-----------------------------------------------------------------------
+
+### 📝 My DEV Blog Posts
+
+Check out my articles on DEV:
+
+<!-- Example of listing a few recent posts -->
+- [10 famous Machine Learning Optimizers](https://dev.to/amananandrai/10-famous-machine-learning-optimizers)  
+- [6 Explainable AI (XAI) Frameworks for Transparency in AI](https://dev.to/amananandrai/6-explainable-ai-xai-frameworks-for-transparency-in-ai)  
+- [Natural Language Processing Performance Metrics (Benchmarks)](https://dev.to/amananandrai/natural-language-processing-performance-metrics-benchmarks)  
+- [Language Model Implementation (Bigram Model)](https://dev.to/amananandrai/language-model-implementation-bigram-model)  
+
+> *More articles available on my [DEV profile](https://dev.to/amananandrai).*
+
 
 
 [![An image of @amananandrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amananandrai)](https://holopin.io/@amananandrai)
