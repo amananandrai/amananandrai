@@ -45,6 +45,15 @@ Check out my articles on DEV:
 
 > *More articles available on my [DEV profile](https://dev.to/amananandrai).*
 
+-----------------------------------------------------------------------
+
+### Coding
+
+#### Leetcode
+
+<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank" rel="noreferrer">
+  <img src="https://leetcard.jacoblin.cool/aman_rai?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+</a>
 
 
 [![An image of @amananandrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amananandrai)](https://holopin.io/@amananandrai)
