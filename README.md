@@ -57,8 +57,6 @@ Check out my articles on DEV:
 
 #### GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amananandrai&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananandrai&layout=compact&theme=gruvbox)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amananandrai&show_icons=true&theme=gruvbox)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananandrai&layout=compact&theme=gruvbox) 
 
 [![An image of @amananandrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amananandrai)](https://holopin.io/@amananandrai)
