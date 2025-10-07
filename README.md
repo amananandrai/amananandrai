@@ -51,9 +51,14 @@ Check out my articles on DEV:
 
 #### Leetcode
 
-<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank" rel="noreferrer">
-  <img src="https://leetcard.jacoblin.cool/aman_rai?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+<a href="https://leetcode.com/aman_rai/" target="_blank" rel="noreferrer">
+  <img src="https://leetcard.jacoblin.cool/aman_rai?theme=nord&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </a>
 
+#### GitHub
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amananandrai&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananandrai&layout=compact&theme=gruvbox)
 
 [![An image of @amananandrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amananandrai)](https://holopin.io/@amananandrai)
