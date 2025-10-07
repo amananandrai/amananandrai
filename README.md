@@ -31,6 +31,10 @@ src="https://img.shields.io/github/followers/amananandrai?logo=github&style=for-
 
 ### 📝 My DEV Blog Posts
 
+<a href="https://dev.to/amananandrai" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/DEV.to-%40amananandrai-0A0A0A?logo=dev.to&style=for-the-badge&labelColor=1c1917" alt="DEV Profile" />
+</a>
+
 Check out my articles on DEV:
 
 <!-- Example of listing a few recent posts -->
