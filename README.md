@@ -6,8 +6,9 @@
 - 🤔 I’m looking for help with new Gen AI tools.
 - 📫 How to reach me: amananandrai@gmail.com
 
-<a href="https://www.github.com/amananandrai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amananandrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/amananandrai" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/amananandrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 <a href="https://www.youtube.com/@Ai_man_0822" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/youtube/channel/subscribers/UC5zKA3wviEqnxAf9Fy_SGGw?style=for-the-badge&logo=youtube&label=Subscribers" alt="YouTube Channel Subscribers" />
 </a><a href="https://www.youtube.com/@Ai_man_0822" target="_blank" rel="noreferrer">
