@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UC5zKA3wviEqnxAf9Fy_SGGw?style=for-the-badge&logo=youtube&label=Subscribers" alt="YouTube Channel Subscribers" />
 </a><a href="https://www.youtube.com/@Ai_man_0822" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/youtube/channel/views/UC5zKA3wviEqnxAf9Fy_SGGw?style=for-the-badge&logo=youtube&label=Views" alt="YouTube Channel Views" />
-<a href="https://stackoverflow.com/users/22656/codeczar" target="_blank" rel="noreferrer">
+<a href="https://stackoverflow.com/users/5582833/codeczar" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/5582833?label=Stack%20Overflow&logo=stack-overflow&style=for-the-badge&color=F48024&labelColor=1c1917" />
 </a>
 
