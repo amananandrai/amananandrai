@@ -64,6 +64,14 @@ Check out my articles on DEV:
 
 ![My GitHub Stats](https://my-github-readme-stats-sage.vercel.app/api?username=amananandrai&show_icons=true&theme=gruvbox) ![Top Langs](https://my-github-readme-stats-sage.vercel.app/api/top-langs/?username=amananandrai&layout=compact&theme=gruvbox) 
 
+#### StackExchange
+![Stack Exchange reputation](https://img.shields.io/stackexchange/scifi/r/96769)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/movies/r/60982)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/hinduism/r/13148)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5582833)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/datascience/r/84566)
+
+
 ## Holopin
 
 [![An image of @amananandrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amananandrai)](https://holopin.io/@amananandrai)
