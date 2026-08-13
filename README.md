@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UC5zKA3wviEqnxAf9Fy_SGGw?style=for-the-badge&logo=youtube&label=Subscribers" alt="YouTube Channel Subscribers" />
 </a><a href="https://www.youtube.com/@Ai_man_0822" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/youtube/channel/views/UC5zKA3wviEqnxAf9Fy_SGGw?style=for-the-badge&logo=youtube&label=Views" alt="YouTube Channel Views" />
-<a href="https://stackoverflow.com/users/5582833/codeczar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/5582833?label=Stack%20Overflow&logo=stack-overflow&style=for-the-badge&color=F48024&labelColor=1c1917" />
-</a>
 
 -----------------------------------------------------------------------
 ### Skills
@@ -65,12 +62,21 @@ Check out my articles on DEV:
 ![My GitHub Stats](https://my-github-readme-stats-sage.vercel.app/api?username=amananandrai&show_icons=true&theme=gruvbox) ![Top Langs](https://my-github-readme-stats-sage.vercel.app/api/top-langs/?username=amananandrai&layout=compact&theme=gruvbox) 
 
 #### StackExchange
-![Stack Exchange reputation](https://img.shields.io/stackexchange/scifi/r/96769)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/movies/r/60982)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/hinduism/r/13148)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5582833)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/datascience/r/84566)
-
+<a href="https://scifi.stackexchange.com/users/96769" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/stackexchange/scifi/r/96769?label=Sci-Fi&logo=stack-exchange&style=for-the-badge&color=F48024&labelColor=1c1917" />
+</a>
+<a href="https://movies.stackexchange.com/users/60982" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/stackexchange/movies/r/60982?label=Movies&logo=stack-exchange&style=for-the-badge&color=F48024&labelColor=1c1917" />
+</a>
+<a href="https://hinduism.stackexchange.com/users/13148" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/stackexchange/hinduism/r/13148?label=Hinduism&logo=stack-exchange&style=for-the-badge&color=F48024&labelColor=1c1917" />
+</a>
+<a href="https://stackoverflow.com/users/5582833" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/5582833?label=Stack%20Overflow&logo=stack-overflow&style=for-the-badge&color=F48024&labelColor=1c1917" />
+</a>
+<a href="https://datascience.stackexchange.com/users/84566" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/stackexchange/datascience/r/84566?label=Data%20Science&logo=stack-exchange&style=for-the-badge&color=F48024&labelColor=1c1917" />
+</a>
 
 ## Holopin
 
