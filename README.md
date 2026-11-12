@@ -15,7 +15,7 @@
 
 <div align="center"><img src="assets/pulse.svg" alt="" width="100%" /></div>
 
-## 🧭 About me
+## <img src="assets/sections/about.svg" width="32" height="32" align="absmiddle" alt="" /> About me
 
 |     |     |
 | --- | --- |
@@ -26,7 +26,7 @@
 
 <div align="center"><img src="assets/pulse.svg" alt="" width="100%" /></div>
 
-## 🛠️ Tech stack
+## <img src="assets/sections/tech.svg" width="32" height="32" align="absmiddle" alt="" /> Tech stack
 
 <table>
   <tr>
@@ -73,7 +73,7 @@
 
 <div align="center"><img src="assets/pulse.svg" alt="" width="100%" /></div>
 
-## 🚀 Featured projects
+## <img src="assets/sections/projects.svg" width="32" height="32" align="absmiddle" alt="" /> Featured projects
 
 <table>
   <tr>
@@ -116,7 +116,7 @@
 
 <div align="center"><img src="assets/pulse.svg" alt="" width="100%" /></div>
 
-## 📝 Latest writing
+## <img src="assets/sections/writing.svg" width="32" height="32" align="absmiddle" alt="" /> Latest writing
 
 I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
@@ -131,7 +131,7 @@ I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 <div align="center"><img src="assets/pulse.svg" alt="" width="100%" /></div>
 
-## 📊 Stats
+## <img src="assets/sections/stats.svg" width="32" height="32" align="absmiddle" alt="" /> Stats
 
 <div align="center">
 
@@ -144,7 +144,7 @@ I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 </div>
 
-### 💻 Competitive coding
+### <img src="assets/sections/coding.svg" width="32" height="32" align="absmiddle" alt="" /> Competitive coding
 
 <div align="center">
 
@@ -156,7 +156,7 @@ I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 </div>
 
-### 💬 Q&amp;A communities
+### <img src="assets/sections/community.svg" width="32" height="32" align="absmiddle" alt="" /> Q&amp;A communities
 
 <div align="center">
 
@@ -170,7 +170,7 @@ I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 <div align="center"><img src="assets/pulse.svg" alt="" width="100%" /></div>
 
-## 🏅 Holopin badges
+## <img src="assets/sections/badges.svg" width="32" height="32" align="absmiddle" alt="" /> Holopin badges
 
 <div align="center">
 
