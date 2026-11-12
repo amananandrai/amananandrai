@@ -76,14 +76,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amananandrai/system-design-explainer">System Design Explainer</a></h3>
+      <a href="https://system-design-explainer.vercel.app/"><img src="assets/system-design-explainer.png" alt="System Design Explainer preview" width="100%" /></a>
+      <h3><a href="https://github.com/amananandrai/system-design-explainer">System Design Explainer</a> · <a href="https://system-design-explainer.vercel.app/">Live</a></h3>
       <p>Interactive explainer of how YouTube, Uber, Amazon and 30+ systems are built, with architectures switchable between AWS, GCP, Azure and open source.</p>
       <img src="https://img.shields.io/github/stars/amananandrai/system-design-explainer?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
+      <a href="https://monuments-of-india-nu.vercel.app"><img src="assets/monuments-of-india.png" alt="Monuments of India preview" width="100%" /></a>
       <h3><a href="https://github.com/amananandrai/monuments-of-india">Monuments of India</a> · <a href="https://monuments-of-india-nu.vercel.app">Live</a></h3>
-      <p>101 Indian monuments in interactive 3D, built with three.js.</p>
+      <p>101 landmarks modelled in 3D, almost all at their real proportions. Pick one on the map or from the list, then drag to walk around it.</p>
       <img src="https://img.shields.io/github/stars/amananandrai/monuments-of-india?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
       <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -91,15 +93,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amananandrai/document-editor-with-tiptap">Document Editor with Tiptap</a></h3>
-      <p>A text editor built with React and the Tiptap library.</p>
+      <a href="https://document-editor-react-tiptap.vercel.app/"><img src="assets/document-editor.png" alt="Docuedit Pro preview" width="100%" /></a>
+      <h3><a href="https://github.com/amananandrai/document-editor-with-tiptap">Docuedit Pro</a> · <a href="https://document-editor-react-tiptap.vercel.app/">Live</a></h3>
+      <p>A free browser-based document editor built around real pages: headers, footers, page numbers, equations and multilevel lists, with what you see matching the PDF.</p>
       <img src="https://img.shields.io/github/stars/amananandrai/document-editor-with-tiptap?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amananandrai/llm-explained">LLM Explained</a></h3>
-      <p>An explainer on how large language models work.</p>
+      <a href="https://llm-explained-lovat.vercel.app/"><img src="assets/llm-explained.png" alt="LLM Explained preview" width="100%" /></a>
+      <h3><a href="https://github.com/amananandrai/llm-explained">LLM Explained</a> · <a href="https://llm-explained-lovat.vercel.app/">Live</a></h3>
+      <p>See how a language model works, one picture at a time: 42 interactive modules across 7 parts, from the maths primer to attention and production agents.</p>
       <img src="https://img.shields.io/github/stars/amananandrai/llm-explained?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
