@@ -71,6 +71,45 @@
 
 ---
 
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amananandrai/system-design-explainer">System Design Explainer</a></h3>
+      <p>Interactive explainer of how YouTube, Uber, Amazon and 30+ systems are built, with architectures switchable between AWS, GCP, Azure and open source.</p>
+      <img src="https://img.shields.io/github/stars/amananandrai/system-design-explainer?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amananandrai/monuments-of-india">Monuments of India</a> · <a href="https://monuments-of-india-nu.vercel.app">Live</a></h3>
+      <p>Ten Indian landmarks in interactive 3D, built with three.js.</p>
+      <img src="https://img.shields.io/github/stars/amananandrai/monuments-of-india?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
+      <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amananandrai/document-editor-with-tiptap">Document Editor with Tiptap</a></h3>
+      <p>A text editor built with React and the Tiptap library.</p>
+      <img src="https://img.shields.io/github/stars/amananandrai/document-editor-with-tiptap?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amananandrai/city-builder">City Builder</a></h3>
+      <p>A 3D city builder campaign.</p>
+      <img src="https://img.shields.io/github/stars/amananandrai/city-builder?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
+
+➡️ [See all repositories](https://github.com/amananandrai?tab=repositories)
+
+---
+
 ## 📝 Latest writing
 
 I write about ML and AI on [DEV](https://dev.to/amananandrai):
