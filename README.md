@@ -4,6 +4,8 @@
 
 **Learning Machine Learning & Generative AI, one project at a time.**
 
+<img src="assets/hero.gif" alt="GitHub cats as Doctor Doom, Captain America, Iron Man, Black Panther and Thor in a battle" width="720" />
+
 <a href="https://github.com/amananandrai"><img src="https://img.shields.io/github/followers/amananandrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" /></a>
 <a href="https://dev.to/amananandrai"><img src="https://img.shields.io/badge/DEV.to-%40amananandrai-0A0A0A?logo=dev.to&style=for-the-badge&labelColor=1c1917" alt="DEV.to" /></a>
 <a href="https://leetcode.com/aman_rai/"><img src="https://img.shields.io/badge/LeetCode-aman__rai-FFA116?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=1c1917" alt="LeetCode" /></a>
