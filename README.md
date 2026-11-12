@@ -98,9 +98,9 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amananandrai/city-builder">City Builder</a></h3>
-      <p>A 3D city builder campaign.</p>
-      <img src="https://img.shields.io/github/stars/amananandrai/city-builder?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
+      <h3><a href="https://github.com/amananandrai/llm-explained">LLM Explained</a></h3>
+      <p>An explainer on how large language models work.</p>
+      <img src="https://img.shields.io/github/stars/amananandrai/llm-explained?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
