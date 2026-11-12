@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 90" width="880" height="90" role="img" aria-label="footer">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#07130a"/><stop offset=".5" stop-color="#0b1020"/><stop offset="1" stop-color="#2a1250"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#4cff2a" stop-opacity="0"/><stop offset=".3" stop-color="#4cff2a"/><stop offset=".7" stop-color="#5aa0ff"/><stop offset="1" stop-color="#d3202f" stop-opacity="0"/></linearGradient>
+<filter id="f" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="880" height="90" fill="url(#bg)"/>
+<rect x="40" y="28" width="800" height="3" rx="1.5" fill="url(#g)" filter="url(#f)"><animate attributeName="opacity" values=".5;1;.5" dur="2s" repeatCount="indefinite"/></rect>
+<text x="440" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" fill="#cfe3ff">THANKS FOR VISITING  ·  LET'S BUILD SOMETHING</text>
+</svg>
