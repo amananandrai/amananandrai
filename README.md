@@ -83,7 +83,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/amananandrai/monuments-of-india">Monuments of India</a> · <a href="https://monuments-of-india-nu.vercel.app">Live</a></h3>
-      <p>Ten Indian landmarks in interactive 3D, built with three.js.</p>
+      <p>101 Indian monuments in interactive 3D, built with three.js.</p>
       <img src="https://img.shields.io/github/stars/amananandrai/monuments-of-india?style=flat-square&logo=github&color=0891b2&labelColor=1c1917" alt="Stars" />
       <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
