@@ -32,41 +32,41 @@
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
-      <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+      <a href="https://www.python.org/"><img src="assets/tech/python.svg" width="52" height="52" alt="Python" title="Python" /></a>
+      <a href="https://www.typescriptlang.org/"><img src="assets/tech/typescript.svg" width="52" height="52" alt="TypeScript" title="TypeScript" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/tech/javascript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /></a>
     </td>
   </tr>
   <tr>
     <td><b>ML / AI</b></td>
     <td>
-      <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" /></a>
-      <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" /></a>
+      <a href="https://pytorch.org/"><img src="assets/tech/pytorch.svg" width="52" height="52" alt="PyTorch" title="PyTorch" /></a>
+      <a href="https://www.tensorflow.org/"><img src="assets/tech/tensorflow.svg" width="52" height="52" alt="TensorFlow" title="TensorFlow" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Web</b></td>
     <td>
-      <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
-      <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+      <a href="https://nodejs.org/en/"><img src="assets/tech/nodedotjs.svg" width="52" height="52" alt="Node.js" title="Node.js" /></a>
+      <a href="https://tailwindcss.com/"><img src="assets/tech/tailwindcss.svg" width="52" height="52" alt="Tailwind CSS" title="Tailwind CSS" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
-      <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
-      <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
+      <a href="https://www.mongodb.com/"><img src="assets/tech/mongodb.svg" width="52" height="52" alt="MongoDB" title="MongoDB" /></a>
+      <a href="https://www.mysql.com/"><img src="assets/tech/mysql.svg" width="52" height="52" alt="MySQL" title="MySQL" /></a>
+      <a href="https://www.postgresql.org/"><img src="assets/tech/postgresql.svg" width="52" height="52" alt="PostgreSQL" title="PostgreSQL" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Tools &amp; Cloud</b></td>
     <td>
-      <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
-      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
-      <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>
-      <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" /></a>
-      <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
+      <a href="https://git-scm.com/"><img src="assets/tech/git.svg" width="52" height="52" alt="Git" title="Git" /></a>
+      <a href="https://www.docker.com/"><img src="assets/tech/docker.svg" width="52" height="52" alt="Docker" title="Docker" /></a>
+      <a href="https://cloud.google.com/"><img src="assets/tech/googlecloud.svg" width="52" height="52" alt="Google Cloud" title="Google Cloud" /></a>
+      <a href="https://www.linux.org"><img src="assets/tech/linux.svg" width="52" height="52" alt="Linux" title="Linux" /></a>
+      <a href="https://code.visualstudio.com/"><img src="assets/tech/visualstudiocode.svg" width="52" height="52" alt="VS Code" title="VS Code" /></a>
     </td>
   </tr>
 </table>
