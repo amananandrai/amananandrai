@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 28" width="880" height="28" role="img" aria-label="divider">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#4cff2a" stop-opacity="0"/><stop offset=".2" stop-color="#4cff2a"/><stop offset=".55" stop-color="#5aa0ff"/><stop offset=".85" stop-color="#d3202f"/><stop offset="1" stop-color="#d3202f" stop-opacity="0"/></linearGradient>
+<filter id="f" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M0 14 H300 l12 -9 l14 18 l14 -14 l10 5 H560 l12 -7 l12 14 l10 -7 H880" fill="none" stroke="url(#g)" stroke-width="2" filter="url(#f)" stroke-dasharray="60 20"><animate attributeName="stroke-dashoffset" from="0" to="-160" dur="1.6s" repeatCount="indefinite"/></path>
+<circle cy="14" r="4" fill="#fff" filter="url(#f)"><animate attributeName="cx" from="0" to="880" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
