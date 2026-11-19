@@ -123,7 +123,7 @@ I write about ML and AI on [DEV](https://dev.to/amananandrai):
 <!-- BLOG-POST-LIST:START -->
 - [Matt Pocock's Agent Skills: The Markdown Files Everyone's Installing (and Whether They Still Matter)](https://dev.to/amananandrai/matt-pococks-agent-skills-the-markdown-files-everyones-installing-and-whether-they-still-matter-122a)
 - [Google's Open Knowledge Format: From a Karpathy Tweet to a Spec, and What the Evidence Says](https://dev.to/amananandrai/googles-open-knowledge-format-from-a-karpathy-tweet-to-a-spec-and-what-the-evidence-says-ol8)
-- [Five Palaces, One Model: Testing Google's Gemini 4 Hydrogen in AI Studio](https://dev.to/amananandrai/i-built-5-interactive-3d-palaces-with-googles-new-gemini-4-hydrogen-in-ai-studio-5g8h)
+- [Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio](https://dev.to/amananandrai/i-built-5-interactive-3d-palaces-with-googles-new-gemini-4-hydrogen-in-ai-studio-5g8h)
 - [Avengers: Doomsday is 5 weeks away, so I built hexagon README badges. What are you building?](https://dev.to/amananandrai/avengers-doomsday-is-5-weeks-away-so-i-built-hexagon-readme-badges-what-are-you-building-32d6)
 - [How Open-Source LLMs Differ: Comparing 130+ Model Architectures](https://dev.to/amananandrai/how-open-source-llms-differ-comparing-130-model-architectures-3b9d)
 <!-- BLOG-POST-LIST:END -->
