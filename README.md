@@ -121,11 +121,11 @@
 I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 <!-- BLOG-POST-LIST:START -->
+- [Why OpenAI, Anthropic and SpaceX's Cursor Are All Building Their Own GitHub](https://dev.to/amananandrai/why-openai-anthropic-and-spacexs-cursor-are-all-building-their-own-github-33lg)
 - [I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video](https://dev.to/amananandrai/i-built-a-ghibli-style-mughal-tudor-palace-with-world-labs-atlas-chisel-heres-what-it-can-do-l21)
 - [Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026](https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24)
 - [Matt Pocock's Agent Skills: The Markdown Files Everyone's Installing (and Whether They Still Matter)](https://dev.to/amananandrai/matt-pococks-agent-skills-the-markdown-files-everyones-installing-and-whether-they-still-matter-122a)
 - [Google's Open Knowledge Format: From a Karpathy Tweet to a Spec, and What the Evidence Says](https://dev.to/amananandrai/googles-open-knowledge-format-from-a-karpathy-tweet-to-a-spec-and-what-the-evidence-says-ol8)
-- [Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio](https://dev.to/amananandrai/i-built-5-interactive-3d-palaces-with-googles-new-gemini-4-hydrogen-in-ai-studio-5g8h)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on my DEV profile](https://dev.to/amananandrai)
