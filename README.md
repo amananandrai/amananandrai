@@ -8,7 +8,7 @@
 
 <a href="https://github.com/amananandrai"><img src="https://img.shields.io/github/followers/amananandrai?logo=github&style=for-the-badge&color=4cff2a&labelColor=10190f" alt="GitHub followers" /></a>
 <a href="https://dev.to/amananandrai"><img src="https://img.shields.io/badge/DEV.to-%40amananandrai-1f4aa8?logo=dev.to&logoColor=white&style=for-the-badge&labelColor=10190f" alt="DEV.to" /></a>
-<a href="https://leetcode.com/aman_rai/"><img src="https://img.shields.io/badge/LeetCode-aman__rai-d3202f?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=10190f" alt="LeetCode" /></a>
+<a href="https://leetcode.com/aman_rai/"><img src="https://img.shields.io/badge/LeetCode-aman__rai-d3202f?logo=leetcode&logoColor=white&style=for-the-badge&labelColor=90f" alt="LeetCode" /></a>
 <a href="mailto:amananandrai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-f2b632?logo=gmail&logoColor=black&style=for-the-badge&labelColor=10190f" alt="Email" /></a>
 
 </div>
@@ -87,7 +87,7 @@
     <td width="50%" valign="top">
       <a href="https://monuments-of-india-nu.vercel.app"><img src="assets/monuments-of-india.png" alt="Monuments of India preview" width="100%" /></a>
       <h3><a href="https://github.com/amananandrai/monuments-of-india">Monuments of India</a> · <a href="https://monuments-of-india-nu.vercel.app">Live</a></h3>
-      <p>101 landmarks modelled in 3D, almost all at their real proportions. Pick one on the map or from the list, then drag to walk around it.</p>
+      <p>201 landmarks modelled in 3D, almost all at their real proportions. Pick one on the map or from the list, then drag to walk around it.</p>
       <img src="https://badgen.net/github/stars/amananandrai/monuments-of-india?icon=github&color=green&labelColor=10190f" alt="Stars" />
       <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
