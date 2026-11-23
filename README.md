@@ -121,11 +121,11 @@
 I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 <!-- BLOG-POST-LIST:START -->
+- [Loop Transformers: Thinking Deeper Without Getting Bigger (GLM-5.4 & Inkling 2 Mini)](https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m)
+- [Coding agents won't replace you, but they're changing what "senior" means](https://dev.to/amananandrai/coding-agents-wont-replace-you-but-theyre-changing-what-senior-means-18a4)
+- [Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge](https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p)
+- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
 - [Microsoft Ignite 2026: Every Announcement, Sorted (Models, GitHub Copilot, Azure, Windows & More)](https://dev.to/amananandrai/microsoft-ignite-2026-every-announcement-sorted-models-github-copilot-azure-windows-more-4gk4)
-- [Why OpenAI, Anthropic and SpaceX's Cursor Are All Building Their Own GitHub](https://dev.to/amananandrai/why-openai-anthropic-and-spacexs-cursor-are-all-building-their-own-github-33lg)
-- [I Built a Ghibli-Style Mughal-Tudor Palace With World Labs Atlas (Chisel). Here's What It Can Do for 3D, Games and Video](https://dev.to/amananandrai/i-built-a-ghibli-style-mughal-tudor-palace-with-world-labs-atlas-chisel-heres-what-it-can-do-l21)
-- [Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026](https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24)
-- [Matt Pocock's Agent Skills: The Markdown Files Everyone's Installing (and Whether They Still Matter)](https://dev.to/amananandrai/matt-pococks-agent-skills-the-markdown-files-everyones-installing-and-whether-they-still-matter-122a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on my DEV profile](https://dev.to/amananandrai)
