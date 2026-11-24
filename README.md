@@ -121,11 +121,11 @@
 I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 <!-- BLOG-POST-LIST:START -->
+- [Blobasaur and the 4th Cross way: how Zerodha's ~35-person tech team keeps shipping open source](https://dev.to/amananandrai/blobasaur-and-the-4th-cross-way-how-zerodhas-35-person-tech-team-keeps-shipping-open-source-39o9)
 - [Loop Transformers: Thinking Deeper Without Getting Bigger (GLM-5.4 & Inkling 2 Mini)](https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m)
 - [Coding agents won't replace you, but they're changing what "senior" means](https://dev.to/amananandrai/coding-agents-wont-replace-you-but-theyre-changing-what-senior-means-18a4)
 - [Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge](https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p)
 - [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
-- [Microsoft Ignite 2026: Every Announcement, Sorted (Models, GitHub Copilot, Azure, Windows & More)](https://dev.to/amananandrai/microsoft-ignite-2026-every-announcement-sorted-models-github-copilot-azure-windows-more-4gk4)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on my DEV profile](https://dev.to/amananandrai)
