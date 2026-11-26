@@ -121,11 +121,11 @@
 I write about ML and AI on [DEV](https://dev.to/amananandrai):
 
 <!-- BLOG-POST-LIST:START -->
+- [From a feed full of Fable 5.2 demos to a 20-episode Indian epic: how I built "The Eighteen Days"](https://dev.to/amananandrai/from-a-feed-full-of-fable-52-demos-to-a-20-episode-indian-epic-how-i-built-the-eighteen-days-14mm)
+- [Are Blogs Still Worth Writing When Agents Do the Reading?](https://dev.to/amananandrai/are-blogs-still-worth-writing-when-agents-do-the-reading-4eg0)
 - [Blobasaur and the 4th Cross way: how Zerodha's ~35-person tech team keeps shipping open source](https://dev.to/amananandrai/blobasaur-and-the-4th-cross-way-how-zerodhas-35-person-tech-team-keeps-shipping-open-source-39o9)
 - [Loop Transformers: Thinking Deeper Without Getting Bigger (GLM-5.4 & Inkling 2 Mini)](https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m)
 - [Coding agents won't replace you, but they're changing what "senior" means](https://dev.to/amananandrai/coding-agents-wont-replace-you-but-theyre-changing-what-senior-means-18a4)
-- [Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge](https://dev.to/amananandrai/monuments-of-india-part-4-100-new-monuments-from-harappan-dholavira-to-the-chenab-rail-bridge-3n6p)
-- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on my DEV profile](https://dev.to/amananandrai)
